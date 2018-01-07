@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <img src="./assets/logo.png">
+    <!-- aqui aparece o conteudo a ser exibido -->
     <router-view/>
   </div>
 </template>
